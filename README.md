@@ -2,6 +2,10 @@
 Your project's description...
 
 ## Environments
+- Preview: https://main--adobe-helix-trial--snowiewdev.hlx.page/
+- Live: https://main--adobe-helix-trial--snowiewdev.hlx.live/
+
+## Enviroments Link Pattern
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
@@ -31,3 +35,7 @@ npm tst
 1. Install the [Helix CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/helix-cli`
 1. Start Franklin Proxy: `hlx up` (opens your browser at `http://localhost:3000`)
 1. Open the `{repo}` directory in your favorite IDE and start coding :)
+
+## Tutorial Links
+- Franklin Developer Tutorial: https://www.hlx.live/developer/tutorial
+- Franklin FAQ: https://www.hlx.live/docs/faq
