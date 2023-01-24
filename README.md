@@ -1,5 +1,4 @@
-# Your Project's Title...
-Your project's description...
+# Adobe Franklin Trial
 
 ## Environments
 - Preview: https://main--adobe-helix-trial--snowiewdev.hlx.page/
